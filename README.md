@@ -74,8 +74,8 @@
   <h1>Formulario de Consulta Oftalmológica</h1>
 
   <p>
-    Usted va a ser atendido por un oftalmólogo/a en el Hospital tan pronto como sea posible.<br>
-    Antes de pasar a consulta, por favor, conteste las preguntas con <strong>LA MÁXIMA SINCERIDAD</strong> para que su atención sea la mejor.
+    Usted va a ser atendido en el servicio de oftalmología tan pronto como sea posible.<br>
+    Con ánimo de prestar el mejor servicio posible, le rogamos que antes de pasar a consulta, por favor, conteste las preguntas con <strong>LA MÁXIMA SINCERIDAD</strong>
   </p>
 
 <form 
@@ -84,11 +84,7 @@ method="POST"
 >
 
     <!-- Datos básicos -->
-    <div>
-      <label for="codigo">Código del paciente:</label>
-      <input type="text" id="codigo" name="codigo" required>
-    </div>
-
+    
     <div>
       <label for="motivo">Motivo de consulta:</label>
       <textarea id="motivo" name="motivo" required></textarea>

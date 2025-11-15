@@ -74,7 +74,7 @@
   <h1>Formulario de Consulta Oftalmológica</h1>
 
   <p>
-    Usted va a ser atendido por un oftalmólogo/a en el Hospital de Torrevieja tan pronto como sea posible.<br>
+    Usted va a ser atendido por un oftalmólogo/a en el Hospital tan pronto como sea posible.<br>
     Antes de pasar a consulta, por favor, conteste las preguntas con <strong>LA MÁXIMA SINCERIDAD</strong> para que su atención sea la mejor.
   </p>
 
